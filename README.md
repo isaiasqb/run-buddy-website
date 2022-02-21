@@ -11,4 +11,6 @@ A website that offers fitness training services.
 https://isaiasqb.github.io/run-buddy-website/
 
 ## Cotribution
+We will eventually work on our develop branch in order to make this website, a more responsive one. Excellent for improving the experience for mobile users.
+
 Made with ❤️ by Isaias
