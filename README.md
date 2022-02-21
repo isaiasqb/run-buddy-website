@@ -14,3 +14,5 @@ https://isaiasqb.github.io/run-buddy-website/
 We will eventually work on our develop branch in order to make this website, a more responsive one. Excellent for improving the experience for mobile users.
 
 Made with ❤️ by Isaias
+
+### ©️️2019 Run Bubby, Inc.
